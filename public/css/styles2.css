@@ -1,0 +1,19 @@
+* {
+    margin-top: 0;
+    margin-left: 0;
+
+}
+
+.success {
+    background-color: lightgreen;
+    height: 200px; 
+    width: 70%;
+    
+}
+.success-text {
+    font-size: 2rem;
+}
+
+h1 {
+    font-size: 4rem;
+}
